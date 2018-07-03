@@ -1,0 +1,5 @@
+import:
+- package: github.com/gorilla/mux
+  version: cb4698366aa625048f3b815af6a0dea8aef9280a
+- package: github.com/lib/pq
+  version: 90697d60dd844d5ef6ff15135d0203f65d2f53b8

@@ -1,0 +1,19 @@
+import:
+- package: github.com/capnm/sysinfo
+  version: 5909a53897f32d198d9c81e3417f6d25ecfd2229
+
+- package: github.com/go-sql-driver/mysql
+  version: 749ddf1598b47e3cd909414bda735fe790ef3d30
+
+- package: github.com/gorilla/mux
+  version: cb4698366aa625048f3b815af6a0dea8aef9280a
+
+- package: github.com/lib/pq
+  version: 90697d60dd844d5ef6ff15135d0203f65d2f53b8
+
+- package: github.com/shirou/gopsutil
+  version: c23bcca55e77b8389d84b09db8c5ac2b472070ef
+
+- package: golang.org/x/sys
+  version: 9e6071e1da7e0cc2ec5444db32f2a45dbc30e41c
+  repo:   https://go.googlesource.com/sys
